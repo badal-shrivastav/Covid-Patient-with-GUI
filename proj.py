@@ -1,4 +1,5 @@
 import covid
+import autonis as at
 from tkinter import *
 a=""
 
